@@ -19,6 +19,10 @@ public class ArregloUno {
         
         int[] c = new int[12];
         
+       
+        c[4]=10;
+        System.out.printf("%d + %d = %d\n", c[1], c[4], c[4]);
+        
         
     }
     
